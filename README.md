@@ -9,16 +9,17 @@ Clean drinking water is essential for public health. This project uses machine l
 
 What does this project do?
 
-Analyzes water quality data.
+🔹Analyzes water quality data.
 
-Builds predictive models to classify potability.
+🔹Builds predictive models to classify potability.
 
-Identifies important factors affecting water safety.
+🔹Identifies important factors affecting water safety.
 
 
 📂 Dataset
 Dataset Used:
-Kaggle Dataset: Water Quality Dataset
+
+🔹Kaggle Dataset: Water Quality Dataset
 
 Number of Samples: X rows, Y features
 
